@@ -1,1 +1,2 @@
 # Bomba-de-infusion-Proyecto-final
+El proyecto consiste en diseñar y desarrollar una bomba de infusión electrónica, un dispositivo médico utilizado para administrar medicamentos o fluidos intravenosos de manera precisa y controlada. El sistema se implementará utilizando microcontroladores y técnicas de programación para sistemas embebidos, integrando hardware y software. Este proyecto tiene como objetivo proporcionar una herramienta médica funcional, segura y económica, ideal para entornos hospitalarios o educativos.
